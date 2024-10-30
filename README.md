@@ -2,7 +2,7 @@
 
 ![Dashboard Overview](https://github.com/KCMcafe15/Logistics-Analysis-Project/blob/96eb0250e964a8b3db3fa5d2f82272c92abdf1cd/img/Logistics%20Dashboard.JPG)
 
-[Click here](https://app.powerbi.com/view?r=eyJrIjoiMWI4N2NmY2EtZTE3My00YTVkLWE3ZjItMTBlNjFmZDk4YWNhIiwidCI6ImE0Yzk4YWY4LWZjZmEtNDY0Zi1iOTJjLWJkZTEyMjA2NmZlNSIsImMiOjEwfQ%3D%3D) to view the Tableau dashboard
+[Click here](https://app.powerbi.com/view?r=eyJrIjoiMWI4N2NmY2EtZTE3My00YTVkLWE3ZjItMTBlNjFmZDk4YWNhIiwidCI6ImE0Yzk4YWY4LWZjZmEtNDY0Zi1iOTJjLWJkZTEyMjA2NmZlNSIsImMiOjEwfQ%3D%3D) to view the Power BI dashboard
 
 ## About the project
 
