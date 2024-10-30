@@ -2,6 +2,8 @@
 
 ![Dashboard Overview](https://github.com/KCMcafe15/Logistics-Analysis-Project/blob/96eb0250e964a8b3db3fa5d2f82272c92abdf1cd/img/Logistics%20Dashboard.JPG)
 
+[Click here](https://app.powerbi.com/view?r=eyJrIjoiMWI4N2NmY2EtZTE3My00YTVkLWE3ZjItMTBlNjFmZDk4YWNhIiwidCI6ImE0Yzk4YWY4LWZjZmEtNDY0Zi1iOTJjLWJkZTEyMjA2NmZlNSIsImMiOjEwfQ%3D%3D) to view the Tableau dashboard
+
 ## About the project
 
 This project focuses on providing a comprehensive view of logistics operations, including shipment status, revenue generation, and delivery performance across various product categories and regions. It enables stakeholders to monitor key metrics, such as average delivery times and salesperson performance, to enhance decision-making and operational efficiency.
